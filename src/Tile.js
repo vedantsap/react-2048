@@ -1,3 +1,3 @@
 export default function Tile({ id, value }) {
-    return <button key={id}> {value} </button>
+    return <button class={`tile tile-${value}`} key={id}> {value} </button>
 }

@@ -139,9 +139,9 @@ function addRandom(m) {
   return { matrix: m }
 }
 
-// TODO
 function randomFill() {
-  return 2
+  let selection = [2, 2, 2, 4]
+  return selection[parseInt(Math.random() * 4)]
 }
 
 function App() {
