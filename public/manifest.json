@@ -1,0 +1,8 @@
+{
+  "short_name": "React 2048",
+  "name": "React 2048",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
